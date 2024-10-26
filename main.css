@@ -244,7 +244,7 @@
 
 
 
-@media only screen and (min-width: 375px) and (max-width: 1439px) {
+@media only screen and (max-width: 375px) {
     body{
         background-color: var(--Light-pink);
         display: flex;
